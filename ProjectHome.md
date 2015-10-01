@@ -1,0 +1,1 @@
+A Blog Community Aggregator based developed with Groovy on the Grails platform
